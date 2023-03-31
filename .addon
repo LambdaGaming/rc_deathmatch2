@@ -1,0 +1,23 @@
+{
+  "Title": "RC Deathmatch 2",
+  "Type": "map",
+  "Org": "lambdagaming",
+  "Ident": "rc_deathmatch_2",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "PackageReferences": [],
+  "Metadata": {
+    "ProjectTemplate": null,
+    "Summary": "",
+    "Description": "Deathmatch map from Ricochet. Jump pads, powerups and other objects will work if you use the Ricochet: Source 2 gamemode.",
+    "Public": true,
+    "GameSupport": [
+      "lambdagaming.ricochet"
+    ]
+  }
+}
